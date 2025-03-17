@@ -38,8 +38,3 @@
 - **Board Dimensions:** Modify `total_row` and `total_col` in `script.js` to change the game board's size.
 - **Styling:** Update `style.css` to further customize the appearance of your game.
 
-## License
-This project is open source and available under the [MIT License](LICENSE).
-
-## Acknowledgments
-- Thanks to Harsh Gupta for the inspiration behind this game.
